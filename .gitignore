@@ -1,0 +1,13 @@
+# Ignore datasets and temp files
+data/train/
+*.zip
+*.tar.gz
+
+# Ignore VS Code and Python environment files
+.vscode/
+.venv/
+opencv-env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
