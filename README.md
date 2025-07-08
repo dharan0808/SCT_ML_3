@@ -19,6 +19,8 @@ Sample Predictions:
 Model's predictions on test images
 [Source: Grid Predictions Visual](https://github.com/dharan0808/SCT_ML_3/blob/main/visuals/grid_predictions.png)
 
+[Kaggle link:](https://www.kaggle.com/code/dharaneeshkumark/svm-classification-dogsvscats)
+
 Result:
 Accuracy of 0.54
 
